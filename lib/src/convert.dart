@@ -487,6 +487,7 @@ gmaps.PolygonOptions _polygonOptionsFromPolygon(
     ..fillColor = _getCssColor(polygon.fillColor)
     ..fillOpacity = _getCssOpacity(polygon.fillColor)
     ..visible = polygon.visible
+    ..editable = polygon.editable
     ..zIndex = polygon.zIndex
     ..geodesic = polygon.geodesic;
 }
