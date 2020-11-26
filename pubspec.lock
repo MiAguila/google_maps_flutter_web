@@ -182,7 +182,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: b25984210ddf0233a9f0994dd44c87cd9089c38a
+      resolved-ref: "3acae9587398ed84a4a623d17e44400bd5e7e8bd"
       url: "git://github.com/MiAguila/google_maps_flutter_platform_interface.git"
     source: git
     version: "1.0.5"

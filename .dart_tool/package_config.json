@@ -159,7 +159,7 @@
     },
     {
       "name": "google_maps_flutter_platform_interface",
-      "rootUri": "file:///Users/juanparrapimiento/flutter-sdk/.pub-cache/git/google_maps_flutter_platform_interface-b25984210ddf0233a9f0994dd44c87cd9089c38a/",
+      "rootUri": "file:///Users/juanparrapimiento/flutter-sdk/.pub-cache/git/google_maps_flutter_platform_interface-3acae9587398ed84a4a623d17e44400bd5e7e8bd/",
       "packageUri": "lib/",
       "languageVersion": "2.3"
     },
@@ -398,7 +398,7 @@
       "languageVersion": "2.3"
     }
   ],
-  "generated": "2020-11-26T05:29:13.862014Z",
+  "generated": "2020-11-26T16:08:58.081445Z",
   "generator": "pub",
   "generatorVersion": "2.12.0-29.10.beta"
 }
