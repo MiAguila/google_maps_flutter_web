@@ -158,12 +158,6 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "google_maps_flutter_platform_interface",
-      "rootUri": "file:///Users/juanparrapimiento/flutter-sdk/.pub-cache/git/google_maps_flutter_platform_interface-3acae9587398ed84a4a623d17e44400bd5e7e8bd/",
-      "packageUri": "lib/",
-      "languageVersion": "2.3"
-    },
-    {
       "name": "html",
       "rootUri": "file:///Users/juanparrapimiento/flutter-sdk/.pub-cache/hosted/pub.dartlang.org/html-0.14.0+4",
       "packageUri": "lib/",
@@ -216,6 +210,12 @@
       "rootUri": "file:///Users/juanparrapimiento/flutter-sdk/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety.6",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "miaguila_google_maps_flutter_platform_interface",
+      "rootUri": "file:///Users/juanparrapimiento/flutter-sdk/.pub-cache/git/google_maps_flutter_platform_interface-62c152476aba0f12d0df6bcc09cd0c23796666d5/",
+      "packageUri": "lib/",
+      "languageVersion": "2.3"
     },
     {
       "name": "mockito",
@@ -392,13 +392,13 @@
       "languageVersion": "2.4"
     },
     {
-      "name": "google_maps_flutter_web",
+      "name": "miaguila_google_maps_flutter_web",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.3"
     }
   ],
-  "generated": "2020-11-26T16:08:58.081445Z",
+  "generated": "2020-11-26T17:07:57.629162Z",
   "generator": "pub",
   "generatorVersion": "2.12.0-29.10.beta"
 }

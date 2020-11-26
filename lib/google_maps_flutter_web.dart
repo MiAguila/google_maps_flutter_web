@@ -20,7 +20,7 @@ import 'package:sanitize_html/sanitize_html.dart';
 
 import 'package:stream_transform/stream_transform.dart';
 
-import 'package:google_maps_flutter_platform_interface/google_maps_flutter_platform_interface.dart';
+import 'package:miaguila_google_maps_flutter_platform_interface/google_maps_flutter_platform_interface.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:google_maps/google_maps.dart' as gmaps;
 

@@ -1,6 +1,6 @@
-name: google_maps_flutter_web
+name: miaguila_google_maps_flutter_web
 description: Web platform implementation of google_maps_flutter
-homepage: https://github.com/flutter/plugins/tree/master/packages/google_maps_flutter
+homepage: https://github.com/miaguila/google_maps_flutter_web
 version: 0.1.0+8
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -17,7 +17,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   meta: ^1.1.7
-  google_maps_flutter_platform_interface:
+  miaguila_google_maps_flutter_platform_interface:
     git:
       url: git://github.com/MiAguila/google_maps_flutter_platform_interface.git
   google_maps: ^3.4.5

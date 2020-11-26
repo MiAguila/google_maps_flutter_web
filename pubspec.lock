@@ -177,15 +177,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.4.5"
-  google_maps_flutter_platform_interface:
-    dependency: "direct main"
-    description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "3acae9587398ed84a4a623d17e44400bd5e7e8bd"
-      url: "git://github.com/MiAguila/google_maps_flutter_platform_interface.git"
-    source: git
-    version: "1.0.5"
   html:
     dependency: transitive
     description:
@@ -249,6 +240,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.3.0-nullsafety.6"
+  miaguila_google_maps_flutter_platform_interface:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "62c152476aba0f12d0df6bcc09cd0c23796666d5"
+      url: "git://github.com/MiAguila/google_maps_flutter_platform_interface.git"
+    source: git
+    version: "1.0.5"
   mockito:
     dependency: "direct dev"
     description:
