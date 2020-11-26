@@ -18,7 +18,7 @@ dependencies:
   meta: ^1.1.7
   google_maps_flutter_platform_interface:
     git:
-           url: git://github.com/flutter/plugin1.git
+      url: git://github.com/MiAguila/google_maps_flutter_platform_interface.git
   google_maps: ^3.4.5
   stream_transform: ^1.2.0
   sanitize_html: ^1.4.1
