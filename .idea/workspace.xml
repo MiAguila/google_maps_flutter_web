@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c08db2c-87c3-446e-91ab-707aa69da93f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,5 +45,15 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="234" key="CommitChangelistDialog2" timestamp="1606366698305">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state x="499" y="234" key="CommitChangelistDialog2/0.25.2048.1255@0.25.2048.1255" timestamp="1606366698305" />
+    <state x="846" y="550" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606366561363">
+      <screen x="0" y="25" width="2048" height="1255" />
+    </state>
+    <state x="846" y="550" key="git4idea.remote.GitConfigureRemotesDialog/0.25.2048.1255@0.25.2048.1255" timestamp="1606366561363" />
   </component>
 </project>
